@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://th.bing.com/th/id/OIP.-XH__hLyFAbYk0rKn2oVVwHaBC?pid=ImgDet&rs=1"News",Acasa Gold
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/5D72_8jLSBC_gj6qozatsg==,1689684857/channels/cme-ro-progold/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=1
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Action TV 1000
+http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AgroTV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Business",Aleph Business (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="News",Antena 1
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/NF5qJMh.png" group-title="Lifestyle",Antena Monden (720p)
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/5XwtFKd.png" group-title="General",Ardeal TV (720p)
+http://89.36.196.28:1936/live/livestream/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="General",Banat TV (720p)
+https://www.btv.ro/hls/banat-tv.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/GFm1P51.png" group-title="Lifestyle",CaTine (720p)
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Undefined",Columna TV (720p)
+http://142.132.136.139:1935/columnatv/live/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/Vt7fObg.png" group-title="Comedy",Comedy Play (720p)
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="General",HD 365
+https://testcam.go.ro:8080/hls/hd365.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/jMrPm9p.png" group-title="Undefined",Hello Taste (720p)
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="General",Hunedoara 1 (480p)
+https://testcam.go.ro:8080/hls/hd1.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Dance (1080p)
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/HcFpNwA.png" group-title="Undefined",Inedit TV (720p)
+http://edge8.imcr.ro:1359/live/myStream/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Info TV România (1080p)
+https://vmi347009.contaboserver.net/live/stream/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="News",Informatia TV (360p)
+http://89.34.224.16/informatia.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Intermedia TV
+https://ch.iptvmate.net/7e92d15f00213b7f4a48960350ab7db1.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="Undefined",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Business",JOB TV (720p)
+https://jobtvvideo.space/hls/stream/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D2 (360p)
+https://stream2.kanald.ro/iphone/knd-live.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO;ES" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Music;SPAIN",LiraTV (720p)
+https://cloud3.streaminglivehd.com:1936/Liratv/Liratv/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="Religious",MISA TV (720p)
+https://vid4.misatv.ro:5050/MSTV/romanian/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/URCiHUs.png" group-title="Weather",Meteo TV.TV (1080p)
+http://80.86.106.207:8000/play/1/index.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="General",Metropola TV (1080p)
+http://81.196.109.35:1935/MetropolaTV/Metro/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/XiBna64.png" group-title="Undefined",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8?checkedby:iptvcat.org
+
