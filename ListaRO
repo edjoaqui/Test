@@ -6,11 +6,14 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="RO" tvg-logo="https://th.bing.com/th/id/OIP.-XH__hLyFAbYk0rKn2oVVwHaBC?pid=ImgDet&rs=1"News",Acasa Gold
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/5D72_8jLSBC_gj6qozatsg==,1689684857/channels/cme-ro-progold/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=1
 
+#EXTINF:0 tvg-country="RO" tvg-logo="https://th.bing.com/th/id/R.5711de45e57befec7d246bd7ec85f03d?rik=i7APC%2b50%2foo1AA&riu=http%3a%2f%2ftvlive.dap.ro%2fwp-content%2fuploads%2f2019%2f04%2fagrotv-705x705.jpg&ehk=r%2bE2OOcdiaZh5I4xPw2l%2fV%2bivu%2fGDszlzIH3nsqhG94%3d&risl=&pid=ImgRaw&r=0"News",AgroTV
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Action TV 1000
 http://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.org
 
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AgroTV (404p) [Not 24/7]
-https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="RO" tvg-logo="https://th.bing.com/th/id/R.e243fefffaf3f0f52bd8a260a31296a7?rik=GN3vTRFl3izoNw&pid=ImgRaw&r=0",Pro TV (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0&checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Business",Aleph Business (720p)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8?checkedby:iptvcat.org
